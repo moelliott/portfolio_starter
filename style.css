@@ -1,6 +1,49 @@
 /* CSS files add styling rules to your content */
 
+body{
+  background:url("https://www.icegif.com/wp-content/uploads/snow-icegif-29.gif")
+  
+}
+.nav{
+  display: flex;
+  margin: 5px;
+  border: ridge white 4px;
+  background-color: lightgrey;
+  padding: 5px;
+  justify-content: space-around;
+}
+h1{
+  text-align: center;
+  background-color: #a8bfbf;
+  font-family: 'Lora', serif;
+}
+h2{
+  text-align: center;
+  background-color: #d1e3e8;
+  font-family: 'Playfair Display', serif;
+}
+p:hover{
+  color: black;
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+}
+img{
+  width: 100px;
+  length: 100px;
+}
+.projects{
+  display: flex;
+  text-align: center;
+  background-color: #98afb9;
+  justify-content: space-around;
+}
+h3{
+  background-color: white;
+  font-family: 'Raleway', sans-serif;
+}
 
-
-
-
+.contact-info{
+  background-color: navy;
+  text-align: center;
+  color: white;
+}
