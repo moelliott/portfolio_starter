@@ -35,7 +35,7 @@ img{
   display: flex;
   text-align: center;
   background-color: #98afb9;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 h3{
   background-color: white;
